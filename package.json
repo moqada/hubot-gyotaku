@@ -1,7 +1,7 @@
 {
   "name": "hubot-gyotaku",
   "description": "Handling Web GYOTAKU for Hubot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "moqada <moqada@gmail.com>",
   "bugs": {
     "url": "https://github.com/moqada/hubot-gyotaku/issues"
